@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/c9752b90-9201-4f49-a230-6705cdf0293d/resourceGroups/dt190g-rg/providers/Microsoft.Web/sites/samo2201-project-backend-dt190g",
+    "appService.deploySubpath": "."
+}
