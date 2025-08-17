@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "cross-env DEBUG=samo2201_project_backend_dt190g:* node app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -26,7 +26,8 @@
     "express-session": "^1.17.3",
     "jsonfile": "^6.1.0",
     "mongoose": "^8.0.3",
-    "redis": "^4.6.12"
+    "redis": "^4.6.12",
+    "dotenv": "^16.3.1"
   },
   "devDependencies": {
     "cross-env": "^7.0.3",
